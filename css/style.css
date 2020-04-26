@@ -918,7 +918,7 @@ footer .holder .atom > div > div:after {
   section.mainbanner a.godown {
     opacity: 1;
     visibility: visible;
-    bottom: 40px;
+    bottom: 80px;
   }
   section.mainbanner .holder h1 {
     font-size: 36px;
