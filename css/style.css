@@ -487,6 +487,7 @@ section.portfolio .portfolio-slider .slide {
   cursor: pointer;
   position: relative;
   overflow: hidden;
+  border-radius: 10px;
 }
 section.portfolio .portfolio-slider .slide:hover .img {
   -webkit-transform: scale(1.1);
